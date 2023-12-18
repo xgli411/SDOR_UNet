@@ -10,8 +10,8 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch \
     --nnodes=$NUM_NODES \
     --node_rank $NODE_RANK \
     run_ddp.py  --train_datalist './datalist/datalist_gopro_train.txt'\
-                --data_root_dir './dataset/GOPRO_Large/train'\
-                --checkdir './checkpoint/MSSNet'\
+                --data_root_dir './dataset/'\
+                --checkdir './checkpoint/'\
                 --max_epoch 3000\
                 --wf 54\
                 --scale 42\
