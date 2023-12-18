@@ -17,7 +17,7 @@
 
 ## Dataset
 
-```The root of the dataset directory can be SSDOR_UNet/dataset/.```
+```The root of the dataset directory can be SDOR_UNet/dataset/.```
 
 ## Arguments
 - test_datalist : Text file with the path of image for testing
