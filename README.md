@@ -1,7 +1,7 @@
 # SDOR_UNet、
 
 ## Network Architecture
-< img src="./img/mssnet.jpg" width="500">  
+< img src="SDOR_UNet.jpg" width="500">  
 
 ## Install
 ```
