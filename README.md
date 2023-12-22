@@ -1,7 +1,7 @@
 # SDOR_UNet、
 
 ## Network Architecture
-< img src="SDOR_UNet.jpg" width="500">  
+<img src="SDOR_UNet.jpg">
 
 ## Install
 ```
